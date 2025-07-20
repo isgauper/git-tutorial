@@ -1,0 +1,2 @@
+print("Tatooine")
+print("Naboo")

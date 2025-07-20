@@ -1,3 +1,5 @@
 print("Darth Vader never said: Luke, I am your father")
 print("Darth Vader said: No, I am your father")
 print("Hey, wait a minute: Darth Vader is not even in AttackOfTheClones")
+print("R2D2 says: bleep boop bleep")
+print("C3PO replies: How did we get into this mess?")
